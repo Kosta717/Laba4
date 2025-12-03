@@ -1,5 +1,5 @@
 #include <iostream>
-// Комментарий, 1
+// Комментарий,
 int
 main()
 {
