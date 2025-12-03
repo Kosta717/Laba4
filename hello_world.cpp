@@ -1,6 +1,7 @@
 #include <iostream>
 // Комментарий
-int main()
+int
+main()
 {
   std::string name;
   std::cin >> name;
